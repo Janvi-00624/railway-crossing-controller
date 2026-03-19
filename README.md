@@ -24,7 +24,7 @@ The main states include:
 - Idle: no train detected, gate open
 - Approach: train arrival detected
 - Passing: train crossing
-- Safety wait: delay before reopening
+- Safety wait: delay before reopening 
 - Clear: system resets to idle
 The FSM structure made it easier to organize logic and transitions.
 
