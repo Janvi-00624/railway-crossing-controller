@@ -1,5 +1,5 @@
 module railway_tb;
-
+parameter SAFETY_DELAY = 10
 reg clk = 0;
 reg reset;
 reg train_detect;
