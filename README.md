@@ -1,10 +1,11 @@
 ## Railway Crossing Controller — Verilog Project
 
 ## Project Description
-- This project simulates a railway crossing gate controller using Verilog HDL.
-- The goal was to understand how digital logic and finite state machines can model a real-world safety system.
-- I first built a basic version of the controller, then upgraded it into a more adaptive system with additional states and timing logic to better represent how an actual railway gate behaves.
-- This project helped me learn how sequential logic works in practice and how simulation tools are used in digital design.
+- Developed a railway crossing gate controller using **Verilog HDL** to simulate the operation of a real-world safety system.
+- The project focused on understanding how **digital logic and finite state machines (FSMs)** can be used to model sequential control processes.
+- Started with a basic gate-control design and later enhanced it with additional states and timing logic to create a more realistic and responsive controller.
+- The project provided practical experience with **sequential logic, FSM-based design, timing behavior, and digital circuit simulation**.
+
 
 ## What the Controller Does
 The controller monitors train detection sensors and controls:
